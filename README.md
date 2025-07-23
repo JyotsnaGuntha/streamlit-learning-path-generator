@@ -77,11 +77,11 @@ cd <your-repo-folder-name>
 
 ---
 
-### Step 3: Create a Virtual Environment named `jyov`
+### Step 3: Create a Virtual Environment named `venv`
 ```bash
-python -m jyov jyov
+python -m venv venv
 ```
-> This creates a virtual environment named `jyov` inside your project folder.
+> This creates a virtual environment named `venv` inside your project folder.
 
 ---
 
@@ -89,16 +89,16 @@ python -m jyov jyov
 
 #### On macOS/Linux:
 ```bash
-source jyov/bin/activate
+source venv/bin/activate
 ```
 
 #### On Windows (Command Prompt):
 ```cmd
-jyov\Scripts\activate
+venv\Scripts\activate
 ```
 
 > After activation, you should see a prompt like:  
-> `(jyov) yourusername@yourmachine:~/project-folder$`
+> `(venv) yourusername@yourmachine:~/project-folder$`
 
 ---
 
