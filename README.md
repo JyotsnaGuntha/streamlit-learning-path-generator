@@ -116,4 +116,4 @@ streamlit run app.py
 
 ## ✅ You’re Ready to Learn!
 
-This app takes your goal, finds top YouTube content, and lays out a personalized learning journey — optionally saving it to the cloud.
+This app takes your goal, finds top YouTube content, and lays out a personalized learning journey --- optionally saving it to the cloud.
